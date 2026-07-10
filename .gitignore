@@ -12,7 +12,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data
+data/
+feature_cache.npz
 
+# IDEs
 .idea/
 .vscode/
 *.swp
